@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Plan",
+    "displayName": "Intel_Gantt_FC"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "fbc32e3a-2a96-ac3d-468e-a606983d451d"
+  }
+}
